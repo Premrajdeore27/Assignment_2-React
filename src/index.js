@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import App from './App'
-import reportWebVitals from './assignment_1/reportWebVitals'
+import reportWebVitals from './assignment_2/reportWebVitals'
 // import './index.css'
 
 
