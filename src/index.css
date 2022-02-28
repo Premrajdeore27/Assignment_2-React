@@ -1,0 +1,46 @@
+body{
+    width: 100%;
+    height: 100Vh;
+    background: linear-gradient(0deg, rgb(240, 162, 207) 14%, rgb(236, 115, 196) 45%, rgb(136, 133, 134) 93%);
+    background-repeat: no-repeat;
+}
+.col{
+    margin-left: 35%;
+}
+
+input,label{
+    font-size: 25px;
+    border-radius: 15px;
+}
+h1{
+    justify-content: center;
+    align-items: center;
+    margin-left: 35%;
+}
+button{
+    height: 35px;
+    width: 200px;
+    border-radius: 15px;
+    color: antiquewhite;
+    background-color: rgb(37, 39, 39,0.5);
+    margin-left: 40%;
+}
+button:hover{
+    background-color: rgb(77, 73, 73);
+}
+.data{
+    width: 98%;
+    height: 100%;
+     border: 4px solid rgb(10, 10, 10);
+    /* background-color: rgb(131, 117, 117); */ 
+   
+}
+.output{
+    display: inline-flex;
+    width: 420px;
+    height: 100%;
+    border-radius: 15px;
+    margin: 20px;
+    border: 2px solid rgb(10, 10, 10);
+    background-color: rgb(131, 117, 117);
+}
